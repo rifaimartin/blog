@@ -9,3 +9,5 @@ tags:
 ---
 
 ![your image](/posts/images/pengen-nanjak.jpg) 
+
+terkadang kesendirian hanyalah sebuah perasaan saja, jdi tidak usah khawatir

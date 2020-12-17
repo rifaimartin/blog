@@ -1,1 +1,3 @@
 hugo new posts/[nama-file-konten].md
+
+git push origin master --force

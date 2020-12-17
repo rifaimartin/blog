@@ -10,4 +10,4 @@ tags:
 
 
 
-bogor punya cerita dan jangan ada yang pernah dan jangan ada yg pernah ada yg 
+menulis adalah tanda bahwa kita menyangi diri kita dimasa depan. dan peduli pada generasi selanjutnya
